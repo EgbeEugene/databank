@@ -1,0 +1,137 @@
+
+/********* account page style ***********/
+
+
+#sidebar{
+    
+    float: left;
+    width: 15%;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: lightsteelblue;
+    height: 350px;
+    margin-bottom: 20px;
+}
+    
+#accountbox{
+    width: 96%;
+    height: inherit;
+    background-color: lightskyblue;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#photobox{
+    background-color:white;
+    height: 100px;
+    width: 100%;
+}
+
+#welcomebar{
+    background-color: gainsboro;
+    width: 98%;
+    height:70px;
+    padding-top:10px;
+    margin-top: 5px;
+    margin-left: 1%;
+    margin-right:1%;
+   
+}
+
+#user-content{
+    width: 100%;
+    height: 90%;
+    background-color: inherit;
+      
+}
+#generaltask{
+    
+    height: 250px;
+    width: 100%;
+    background-color: lightblue;
+    
+}
+
+#taskbox{
+    
+    width:75% ;
+    height: 350px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: lightblue;
+    
+}
+
+.containerbox {
+  margin: 20px auto;
+  width: 640px;
+}
+
+.sidetask ul{
+ 
+    display: block;
+    
+}
+
+#databox{
+    width: 96%;
+    background-color: lavender;
+    height: 30%;
+    margin-left: 7px;
+    margin-right: 5px;
+    margin-top: 5px;
+    
+    
+}
+
+#coinbox{
+    width: 96%;
+    background-color: lavender;
+    height: 30%;
+    margin-left: 7px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+#badgebox{
+    width: 96%;
+    background-color: lavender;
+    height: 30%;
+    margin-left: 7px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+
+#welcome-box{
+    width: 98%;
+    height: 50px;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom: 20px;
+    
+     
+      
+}
+
+#welcome-message{
+    
+    float: left;
+    margin-left: 1%;
+    width: 20%;
+}
+
+#search-bar{
+    float: left;
+    margin-left: 41%;
+     width: 25%;
+}
+
+#logout{
+    margin-left: 20%;
+}
+
+/************ Search form ********************/
+
